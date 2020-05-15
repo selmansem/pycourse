@@ -36,10 +36,11 @@ clear()
 </code></pre>
 
 ### How to get third party modules:
-Using command <code>*pip*</code>
+Using command <code>*pip*</code>:
 ```console
 pip install <module-name>
 ```
+To obtain the documentation of the module visit [PYPI](https://pypi.org).
 
 ## Order to read the examples:
 1. [First code line](#first-code-line-example)
