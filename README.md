@@ -117,6 +117,7 @@ Explain the data types you can use:
 -   Explain *lambda* funcions.
 ### Modules [example](modules.py)
 -   Define and explain the three ways to get modules.
+-   How to create and impelement your own modules.
 -   [How to install third party modules.](#how-to-get-third-party-modules)
 
 ## My modules:
