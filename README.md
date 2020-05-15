@@ -44,3 +44,7 @@ clear()
 11. [Loops](loops.py)
 12. [Functions](functions.py)
 13. [Modules](modules.py)
+
+## Abstracts:
+### First code line [example](helloworld.py)
+Hello
