@@ -37,7 +37,7 @@ clear()
 
 ### How to get third party modules:
 Using command <code>*pip*</code>
-<code>pip install <module-name></code>
+<pre><code>pip install <module-name></code></pre>
 
 ## Order to read the examples:
 1. [First code line](#first-code-line-example)
