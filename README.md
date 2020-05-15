@@ -1,6 +1,10 @@
 # pycourse
 Python Course
 
+## Requirements
+-   Python 3.6 or greater
+-   Visual Code Studio
+
 Every example starts with:
 
 <pre><code>
@@ -53,7 +57,8 @@ Explain the data types you can use:
 -   **Strings** can be enclosed in single or double quotes if they are single line.\
     They can also be enclosed in triple single or double quotes if they are single line.
 -   **Type** function to get what type of data is the indicated value.
--   **Concatenate strings** using <kbd>+</kbd> and <kbd>,</kbd>
+-   **Concatenate strings** using <kbd>+</kbd> and <kbd>,</kbd>.
+-   ****
 ### Variables [example](variables.py)
 ### Strings [example](strings.py)
 ### Numbers [example](numbers.py)
