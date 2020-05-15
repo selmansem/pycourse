@@ -62,7 +62,7 @@ Explain the data types you can use:
 -   **Numbers** can be integer or float.
 -   **Booleans**, return values True or False.
 -   **Sequences:**
--       **Lists:**
+    -   **Lists:**
 ### Variables [example](variables.py)
 ### Strings [example](strings.py)
 ### Numbers [example](numbers.py)
