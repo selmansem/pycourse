@@ -47,8 +47,11 @@ clear()
 
 ## Abstracts:
 ### First code line [example](helloworld.py)
-Hello
+A simple code showing how to comment content and how to print the results on the screen.
 ### Data types [example](datatype.py)
+Explain the data types you can use:
+-   Strings can be enclosed in single or double quotes if they are single line.\
+    They can also be enclosed in triple single or double quotes if they are single line.
 ### Variables [example](variables.py)
 ### Strings [example](strings.py)
 ### Numbers [example](numbers.py)
