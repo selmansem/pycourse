@@ -6,7 +6,7 @@ Python Course
 -   Visual Code Studio
 
 ## Note:
-Every example starts with:
+### Every example starts with:
 
 <pre><code>
 # import only system from os
@@ -34,6 +34,10 @@ clear()
 ## The function above is to clean the console each time run the code ##
 #######################################################################
 </code></pre>
+
+### How to get third party modules:
+Using command <code>*pip*</code>
+<code>pip install <module-name></code>
 
 ## Order to read the examples:
 1. [First code line](#first-code-line-example)
@@ -67,13 +71,46 @@ Explain the data types you can use:
 -   **Dictionaries** are an unordered collection of data in a *key*:*value* pair form.
 -   **NoneType** is a null value.
 ### Variables [example](variables.py)
+-   Ways to define and call variables.
+-   Tips for naming variables and constants.
 ### Strings [example](strings.py)
+-   How to know the methods that you can apply to a value.
+-   Various examples of methods for strings.
 ### Numbers [example](numbers.py)
+-   How let user input data.
+-   How to convert string to int.
+-   How to format a print string.
 ### Lists [example](lists.py)
+-   Define a list.
+-   Define a list from range.
+-   Get list value by index.
+-   Add values to list.
+-   Remove values from list.
 ### Tuples [example](tuples.py)
+-   Define a tuple.
+-   Printing data from tuple.
+-   Implementation example.
 ### Sets [example](set.py)
+-   Define a set.
+-   Printing data from set.
+-   Add values to set.
+-   Delete values from set.
+-   Check if value exist in set.
 ### Dictionaries [example](dictionaries.py)
+-   Define a dictionary.
+-   Printing data from dictionary.
 ### Conditionals [example](conditionals.py)
+-   Comparison operators.
+-   Logic operators.
+-   Example *if, elif* and *else*.
+-   Note switch statement.
 ### Loops [example](loops.py)
+-   Define *FOR* loop.
+-   Example *FOR* loop.
+-   Define *WHILE* loop.
+-   Example *WHILE* loop.
 ### Functions [example](functions.py)
+-   Define funcions.
+-   Explain *lambda* funcions.
 ### Modules [example](modules.py)
+-   Define and explain the three ways to get modules.
