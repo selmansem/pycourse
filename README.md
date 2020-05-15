@@ -3,7 +3,7 @@ Python Course
 
 Every example starts with:
 
-<code>
+<pre><code>
 # import only system from os
 from os import system, name
 
@@ -28,4 +28,4 @@ clear()
 #######################################################################
 ## The function above is to clean the console each time run the code ##
 #######################################################################
-</code>
+</code></pre>
