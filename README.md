@@ -64,6 +64,8 @@ Explain the data types you can use:
 -   **Sequences:**
     -   **Lists:** Ordered mutable data collections between square brackets <kbd>[</kbd><kbd>]</kbd>.
     -   **Tuples:** Ordered non-mutable data collections between parentheses <kbd>(</kbd><kbd>)</kbd>.
+-   **Dictionaries** are an unordered collection of data in a *key*:*value* pair form.
+-   **NoneType** is a null value.
 ### Variables [example](variables.py)
 ### Strings [example](strings.py)
 ### Numbers [example](numbers.py)
