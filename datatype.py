@@ -37,7 +37,8 @@ print("""Hello world\n""")
 print(type('Hello world'))
 
 # Concatente strings
-print("Bye" + "World")
+print("Bye" + "World using +")
+print("Bye", "World using ,")
 
 # Numbers
 ## Integer
