@@ -62,7 +62,8 @@ Explain the data types you can use:
 -   **Numbers** can be integer or float.
 -   **Booleans**, return values True or False.
 -   **Sequences:**
-    -   **Lists:**
+    -   **Lists:** Ordered mutable data collections between square brackets <kbd>[</kbd><kbd>]</kbd>.
+    -   **Tuples:** Ordered non-mutable data collections between parentheses <kbd>(</kbd><kbd>)</kbd>.
 ### Variables [example](variables.py)
 ### Strings [example](strings.py)
 ### Numbers [example](numbers.py)
