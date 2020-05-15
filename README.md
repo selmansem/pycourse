@@ -120,4 +120,4 @@ Explain the data types you can use:
 -   [How to install third party modules.](#how-to-get-third-party-modules)
 
 ## My modules:
-When you execute your own module, python automatically creates a folder called __*pycache*__.
+When you execute your own module, python automatically creates a folder called \__*pycache*__.
