@@ -63,7 +63,7 @@ A simple code showing how to comment content and how to print the results on the
 ### Data types [example](datatype.py)
 Explain the data types you can use:
 -   **Strings** can be enclosed in single or double quotes if they are single line.\
-    They can also be enclosed in triple single or double quotes if they are single line.
+    They can also be enclosed in triple single or double quotes if they are multiple lines.
 -   **Type** function to get what type of data is the indicated value.
 -   **Concatenate strings** using <kbd>+</kbd> and <kbd>,</kbd>.
 -   **Numbers** can be integer or float.
