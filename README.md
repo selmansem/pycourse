@@ -1,10 +1,11 @@
 # pycourse
 Python Course
 
-## Requirements
+## Requirements:
 -   Python 3.6 or greater
 -   Visual Code Studio
 
+## Note:
 Every example starts with:
 
 <pre><code>
@@ -58,7 +59,10 @@ Explain the data types you can use:
     They can also be enclosed in triple single or double quotes if they are single line.
 -   **Type** function to get what type of data is the indicated value.
 -   **Concatenate strings** using <kbd>+</kbd> and <kbd>,</kbd>.
--   ****
+-   **Numbers** can be integer or float.
+-   **Booleans**, return values True or False.
+-   **Sequences:**
+-       **Lists:**
 ### Variables [example](variables.py)
 ### Strings [example](strings.py)
 ### Numbers [example](numbers.py)
