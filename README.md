@@ -107,7 +107,7 @@ Explain the data types you can use:
 -   Relational operators.
 -   Logic operators.
 -   Example *if, elif* and *else*.
--   Switch statement as *MATCH CASE*. __NEW IN PYTHON 3.10.*__
+-   Switch statement as *match x case n:*. __NEW IN PYTHON 3.10.*__
 ### Loops [example](loops.py)
 -   Define *FOR* loop.
 -   Example *FOR* loop.
