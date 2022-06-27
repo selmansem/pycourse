@@ -103,10 +103,11 @@ Explain the data types you can use:
 -   Define a dictionary.
 -   Printing data from dictionary.
 ### Conditionals [example](conditionals.py)
--   Comparison operators.
+-   Arithmetic operators.
+-   Relational operators.
 -   Logic operators.
 -   Example *if, elif* and *else*.
--   Note switch statement.
+-   Switch statement as *MATCH CASE*. __NEW IN PYTHON 3.10.*__
 ### Loops [example](loops.py)
 -   Define *FOR* loop.
 -   Example *FOR* loop.
